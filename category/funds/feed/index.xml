@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Funds &#8211; EBIIS</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>AUDIOLOGICAL SERVICES</description>
+	<lastBuildDate>Mon, 02 Sep 2019 13:57:38 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2019/09/cropped-EBIIS-LOGO1-32x32.png</url>
+	<title>Funds &#8211; EBIIS</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">180204183</site>	<item>
+		<title>Better help for vulnerable children school</title>
+		<link>./../../../tes-6/index.html</link>
+					<comments>./../../../tes-6/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 25 Dec 2018 03:31:19 +0000</pubDate>
+				<category><![CDATA[Children Stories]]></category>
+		<category><![CDATA[Funds]]></category>
+		<category><![CDATA[Charity]]></category>
+		<category><![CDATA[Human Life]]></category>
+		<guid isPermaLink="false">http://demo.vastthemes.com/business/?p=1844</guid>
+
+					<description><![CDATA[Images from the AFP news agency show the vehicle up in flames and then later gutted and charred on a road by fields covered in snow.]]></description>
+		
+					<wfw:commentRss>./../../../tes-6/feed/index.html</wfw:commentRss>
+			<slash:comments>5</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">6209</post-id>	</item>
+		<item>
+		<title>Your Community Needs Your Help</title>
+		<link>./../../../your-community-needs-your-help/index.html</link>
+					<comments>./../../../your-community-needs-your-help/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 27 Apr 2018 07:10:20 +0000</pubDate>
+				<category><![CDATA[Funds]]></category>
+		<category><![CDATA[Community]]></category>
+		<category><![CDATA[Inspiration]]></category>
+		<guid isPermaLink="false">http://vastthemes.com/business/?p=375</guid>
+
+					<description><![CDATA[Other countries poverty and homelessness still affect a large population of our country. There are hundreds of charity organizations throughout the United States that do everything they can to assist struggling individuals and families.]]></description>
+		
+					<wfw:commentRss>./../../../your-community-needs-your-help/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">6202</post-id>	</item>
+		<item>
+		<title>3 Top Charities Dedicated to Road Safety</title>
+		<link>./../../../3-top-charities-dedicated-to-road-safety/index.html</link>
+					<comments>./../../../3-top-charities-dedicated-to-road-safety/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 27 Apr 2018 06:21:23 +0000</pubDate>
+				<category><![CDATA[Charity]]></category>
+		<category><![CDATA[Funds]]></category>
+		<category><![CDATA[Ideas]]></category>
+		<category><![CDATA[Campaigns]]></category>
+		<category><![CDATA[Charities]]></category>
+		<category><![CDATA[Community]]></category>
+		<category><![CDATA[Inspiration]]></category>
+		<guid isPermaLink="false">http://vastthemes.com/business/?p=349</guid>
+
+					<description><![CDATA[ Purchasing a home is expensive, and a lot of citizens simply do not have the funding to do so. One of the most tragic happenings in our country’s homeless community is the sheer volume of military veterans.]]></description>
+		
+					<wfw:commentRss>./../../../3-top-charities-dedicated-to-road-safety/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">6201</post-id>	</item>
+		<item>
+		<title>Can Charitable Donations Offset</title>
+		<link>./../../../talk-about-your-accomplishment/index.html</link>
+					<comments>./../../../talk-about-your-accomplishment/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 27 Apr 2018 06:17:04 +0000</pubDate>
+				<category><![CDATA[Funds]]></category>
+		<category><![CDATA[business]]></category>
+		<guid isPermaLink="false">http://vastthemes.com/business/?p=341</guid>
+
+					<description><![CDATA[In this organization, homeowners work with construction volunteers to build their new homes. They are charged for materials, but no interest or profit is paid on the homes.]]></description>
+		
+					<wfw:commentRss>./../../../talk-about-your-accomplishment/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">6199</post-id>	</item>
+	</channel>
+</rss>
